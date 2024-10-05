@@ -1,6 +1,6 @@
 # Proyek_Analisis_Data
 
-##Setup Environment - Shell/Terminal
+## Setup Environment - Shell/Terminal
 ...
 
 mkdir dashboard
