@@ -2,6 +2,8 @@
 
 ## Setup Environment - Shell/Terminal
 ...
+
+
 mkdir dashboard
 cd dashboard
 pipenv install
