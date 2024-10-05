@@ -3,7 +3,7 @@
 ## Setup Environment - Shell/Terminal
 ```
 mkdir proyek_analisis_data
-cd proyek_analisis_data
+cd dashboard
 pipenv install
 pipenv shell
 pip install -r requirements.txt
